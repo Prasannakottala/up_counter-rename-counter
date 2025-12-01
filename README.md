@@ -1,1 +1,1 @@
-# up-counter
+# counter
