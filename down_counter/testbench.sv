@@ -1,6 +1,6 @@
 // Code your testbench here
 // or browse Examples
-module upcounter_testbench();
+module downcounter_testbench();
 reg clk, rst;
   wire [3:0] out;
 
